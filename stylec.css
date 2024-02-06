@@ -1,0 +1,22 @@
+
+
+.Blu {
+    color: blue;
+    font-weight: bold;
+}
+
+p {
+    white-space: pre-line;
+    max-width: 37em; /* Adjust as needed */
+    
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+body {
+    font-family: Arial;
+}
